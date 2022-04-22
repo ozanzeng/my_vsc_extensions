@@ -1,0 +1,17 @@
+code --install-extension 2gua.rainbow-brackets
+code --install-extension dbaeumer.vscode-eslint
+code --install-extension dsznajder.es7-react-js-snippets
+code --install-extension eamodio.gitlens
+code --install-extension ecmel.vscode-html-css
+code --install-extension esbenp.prettier-vscode
+code --install-extension formulahendry.auto-close-tag
+code --install-extension formulahendry.auto-rename-tag
+code --install-extension GraphQL.vscode-graphql
+code --install-extension kamikillerto.vscode-colorize
+code --install-extension ms-azuretools.vscode-docker
+code --install-extension ms-vscode-remote.remote-containers
+code --install-extension pranaygp.vscode-css-peek
+code --install-extension ritwickdey.live-sass
+code --install-extension ritwickdey.LiveServer
+code --install-extension steoates.autoimport
+code --install-extension wix.vscode-import-cost
